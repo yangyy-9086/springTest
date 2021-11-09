@@ -13,6 +13,7 @@ public class TestApplication {
 		System.out.println("张婷婷喜欢我");
 		System.out.println("我喜欢张婷婷");
 		System.out.println("张婷婷，我要和你在一起");
+		System.out.println("我们要好好地");
 	}
 
 }
